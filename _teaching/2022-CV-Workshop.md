@@ -16,4 +16,4 @@ Topics
 * Tracking Pose Landmarks Using Mediapipe
 * Connection between Mediapipe and Unity game engine
 
-As an internship supervisor and mentor, I was committed to hold this workshop as a starting point of the new research interns in the Entertainment innovation center of Isfahan university.
+As an internship supervisor and mentor, I was committed to hold this workshop as a starting point of the new research team's journey in the Entertainment innovation center of Isfahan university.
