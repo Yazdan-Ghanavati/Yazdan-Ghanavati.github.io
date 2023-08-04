@@ -17,6 +17,6 @@ Microprocessor’s course, 2 semesters for Biomedical Engineering students.
 * Taught how to develop a practical robot based on AVR microchips 
 * Evaluated final projects and graded student’s exams
 
-80 hours, more than 100 students
+80 hours, more than 100 students, 
 Fall 2021, 2022
 
