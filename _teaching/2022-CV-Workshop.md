@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-CV-Workshop
 venue: "Entertainment innovation center of Isfahan university"
-date: 2022 Summer
+date: 2022-5-1
 location: "Isfahan, Iran"
 ---
 
