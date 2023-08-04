@@ -10,8 +10,8 @@ location: "Isfahan, Iran"
 
 Microprocessor’s course, 2 semesters for Biomedical Engineering students.
 
-Tasks
-=====
+## Tasks
+
 
 * Held classes to solve problems and new samples of each topic and designed home works======
 * Taught how to develop a practical robot based on AVR microchips 
