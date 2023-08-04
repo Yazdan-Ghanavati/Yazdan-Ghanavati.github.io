@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Microprocessors-TA
 venue: "University of Isfahan, Biomedical Engineering Department"
-date: 2021, 2022
+date: 2022-10-1, 2021-10-1
 location: "Isfahan, Iran"
 ---
 
@@ -18,4 +18,5 @@ Microprocessor’s course, 2 semesters for Biomedical Engineering students.
 * Evaluated final projects and graded student’s exams
 
 80 hours, more than 100 students
+Fall 2021, 2022
 
