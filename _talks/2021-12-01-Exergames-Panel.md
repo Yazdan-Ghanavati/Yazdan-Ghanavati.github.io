@@ -8,4 +8,15 @@ date: 2021-12-1
 location: "Isfahan, Iran"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+one of the keynote speakers of the " Online Panel of Exergames " during the research week at UI
+
+## Researcher and Presenter
+
+### Tasks Description
+* Communicated with officials and scientific teams
+* Lead a research focused on Computer Vision applications in rehabilitation
+* Presented a discussion about Tracking Anatomical Body Landmarks using Python and Mediapipe
+
+
+
+![photo_5938381835862130005_y](https://github.com/Yazdan-Ghanavati/Yazdan-Ghanavati.github.io/assets/137007531/4827d36a-2d4c-4052-a2f7-a02e7d0dc134)
