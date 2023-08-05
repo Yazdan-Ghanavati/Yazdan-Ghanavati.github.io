@@ -1,13 +1,5 @@
----
-title: "Patent and Publications"
-collection: publications
-permalink: /publication/Publications
-excerpt: 
-date: 
-venue: 
-paperurl: 
-citation: 
----
+
+## Publications
 Yazdan Ghanavati, Javad Rasti, “Real-time PSL (Persian sign language) detection using LSTM neural network and Machine Vision techniques”, 2023, status: under-preparation
 &nbsp;
 &nbsp;
@@ -35,3 +27,32 @@ This Windows-based application enables users to control exergames using physical
 
 
 
+## Projects
+### Behneshan; A video game to teach sign language to deaf children using AI asnd Machine Vision       	         
+University of Isfahan, BME department, Isfahan, Iran				          
+This project uses LSTM neural networks to create a software that teaches Persian Sign Language (PSL) to deaf children via a platformer game, Computer Vision techniques, and pose landmark recognition. The system accurately recognizes 29 PSL letters and practical words with a 96% accuracy rate.
+&nbsp;
+&nbsp;
+
+2022 Sept - Present
+&nbsp;
+
+### Breast cancer detection			   							           
+A MATLAB project based on image-processing techniques (thermogram image processing) for breast cancer detection. 
+&nbsp;
+&nbsp;
+
+[Details of this project](https://github.com/Yazdan-Ghanavati/Breast-Cancer-Detection)
+&nbsp;
+2022 Jun
+&nbsp;
+
+### Dyslexia treatment 											          
+A C# based project developed to encourage children, in order to improve their reading and learning skills. 
+&nbsp;
+&nbsp;
+
+[Details of this project](https://github.com/Yazdan-Ghanavati/Dyslexia-)
+&nbsp;
+2022 Dec
+&nbsp;
