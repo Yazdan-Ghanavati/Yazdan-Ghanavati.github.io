@@ -32,9 +32,14 @@ This Windows-based application enables users to control exergames using physical
 University of Isfahan, BME department, Isfahan, Iran				          
 This project uses LSTM neural networks to create a software that teaches Persian Sign Language (PSL) to deaf children via a platformer game, Computer Vision techniques, and pose landmark recognition. The system accurately recognizes 29 PSL letters and practical words with a 96% accuracy rate.
 &nbsp;
-&nbsp;
 
+[Details of this project](https://github.com/Yazdan-Ghanavati/Behneshan)
+&nbsp;
+[This Project has been anounced as one of the top 3 projects in the field of serious games by the Iranian National Computer Games Foundation](https://ircg.ir/s/2ff)
+&nbsp;
 2022 Sept - Present
+&nbsp;
+&nbsp;
 &nbsp;
 
 ### Breast cancer detection			   							           
