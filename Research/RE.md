@@ -35,10 +35,13 @@ This project uses LSTM neural networks to create a software that teaches Persian
 
 [Details of this project](https://github.com/Yazdan-Ghanavati/Behneshan)
 &nbsp;
-[This Project has been anounced as one of the top 3 projects in the field of serious games by the Iranian National Computer Games Foundation](https://ircg.ir/s/2ff)
 &nbsp;
+
 2022 Sept - Present
 &nbsp;
+&nbsp;
+
+[This project has been anounced as one of the top 3 projects in the field of serious games by the Iranian National Computer Games Foundation](https://ircg.ir/s/2ff)
 &nbsp;
 &nbsp;
 
