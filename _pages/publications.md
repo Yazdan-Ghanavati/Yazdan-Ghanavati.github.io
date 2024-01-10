@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Publications
-**Yazdan Ghanavati**, Javad Rasti, “Real-time PSL (Persian sign language) detection using LSTM neural network and Machine Vision techniques”, 2023, status: under-preparation
+**Yazdan Ghanavati**, Javad Rasti, “Behneshan: An Educational Video Game Utilizing Image Processing and Machine Learning Techniques to Teach Persian Sign Language to Deaf Children”, 6th International Serious Games Symposium (ISGS), 2023, status: Accepted
 &nbsp;
 &nbsp;
 
