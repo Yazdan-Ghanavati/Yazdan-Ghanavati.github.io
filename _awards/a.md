@@ -2,7 +2,7 @@
 title: "Microprocessors Teaching Assistant"
 collection: awards
 type: "Undergraduate course"
-permalink: /awards/Microprocessors-TA
+permalink: /awards/a
 venue: "University of Isfahan, Biomedical Engineering Department"
 date: 2022-10-1, 2021-10-1
 location: "Isfahan, Iran"
