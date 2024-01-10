@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Microprocessors Teaching Assistant"
 collection: portfolio
+type: "Undergraduate course"
+permalink: /portfolio/Microprocessors-TA
+venue: "University of Isfahan, Biomedical Engineering Department"
+date: 2022-10-1, 2021-10-1
+location: "Isfahan, Iran"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Microprocessor’s course, 2 semesters for Biomedical Engineering students.
+
+## Tasks
+
+
+* Held classes to solve problems and new samples of each topic and designed home works
+* Taught how to develop a practical robot based on AVR microchips 
+* Evaluated final projects and graded student’s exams
+
+80 hours, more than 100 students, 
+Fall 2021, 2022
+
