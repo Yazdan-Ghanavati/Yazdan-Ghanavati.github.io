@@ -18,7 +18,7 @@ I studied at the University of Isfahan where I received my BS.c. in 2023 in Biom
 🌱 I’m currently learning AI in medicine online course and at the same time wraping up my personal project.
 &nbsp;
 
-💞️ I’m looking to collaborate on a research team in the field of Computer Vision, AI in medicine, Image processing or related areas
+💞️ I’m looking to collaborate on a research team in the field of Computer Vision, AI in medicine, Image processing or related areas.
 &nbsp;
 
 📫 You can reach me by my Email or LinkedIn accounts.
