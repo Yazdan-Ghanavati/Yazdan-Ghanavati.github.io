@@ -12,12 +12,14 @@ Hosted by: SeGaP (Serious Games Prize)
 Field of Study: Serious Games based on AI, Computer Vision and Image Processing
 &nbsp;
 
-[Check out my LinkedIn Post for further info](https://civilica.com/doc/1445614)
+[Check out my LinkedIn Post for Further Info](https://civilica.com/doc/1445614)
 &nbsp;
+
+
+
 
 ![photo_5224299452242711949_y](https://github.com/Yazdan-Ghanavati/Yazdan-Ghanavati.github.io/assets/137007531/5c49a96e-a2d3-4f52-a64f-f461450398a1)
 
-![photo_5803176772190191078_y](https://github.com/Yazdan-Ghanavati/Yazdan-Ghanavati.github.io/assets/137007531/47c3c518-50fe-448a-9ada-9b6c6224b7ed)
 
 2023 Dec
 &nbsp;
