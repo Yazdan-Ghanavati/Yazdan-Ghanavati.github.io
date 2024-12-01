@@ -45,8 +45,8 @@ This project uses LSTM neural networks to create a software that teaches Persian
 &nbsp;
 &nbsp;
 
-### Breast cancer detection			   							           
-A MATLAB project based on image-processing techniques (thermogram image processing) for breast cancer detection. 
+### ThermoDetect			   							           
+ A breast cancer detection system built using advanced image-processing techniques and machine learning algorithms in MATLAB, incorporating thermogram analysis to provide accurate and efficient diagnosis of potential abnormalities.
 &nbsp;
 &nbsp;
 
@@ -55,8 +55,8 @@ A MATLAB project based on image-processing techniques (thermogram image processi
 2022 Jun
 &nbsp;
 
-### Dyslexia treatment 											          
-A C# based project developed to encourage children, in order to improve their reading and learning skills. 
+### DyslexiaAid										          
+A C#-based application designed to assist children in improving their reading and learning abilities through engaging, interactive exercises tailored to enhance cognitive skills and reading comprehension.
 &nbsp;
 &nbsp;
 
