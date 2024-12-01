@@ -8,17 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I’m Yazdan Ghanavati.
-I studied at the University of Isfahan where I received my BS.c. in 2023 in Biomedical Engineering major. 
-&nbsp;
+# About Me  
+Hi, I’m **Yazdan Ghanavati**, a dedicated and passionate researcher with a strong foundation in **Biomedical Engineering** and a keen interest in leveraging **Artificial Intelligence (AI)** for healthcare advancements.  
 
-👀 I’m interested in AI applications specifically designed for healthcare systems.
-&nbsp;
+I hold a **B.Sc. in Biomedical Engineering** from the **University of Isfahan** (2023) and am currently pursuing a **Master’s in ICT for Internet and Multimedia** at the **University of Padua**.  
 
-🌱 I’m currently learning AI in medicine online course and at the same time wraping up my personal project.
-&nbsp;
+---
 
-💞️ I’m looking to collaborate on a research team in the field of Computer Vision, AI in medicine, Image processing or related areas.
-&nbsp;
+## My Interests  
+- **AI Applications in Healthcare**: Exploring innovative ways AI can enhance medical diagnostics, treatment, and patient care.  
+- **Research Focus Areas**: Computer Vision, AI in Medicine, and Image Processing.  
 
-📫 You can reach me by my Email or LinkedIn accounts.
+---
+
+## Current Endeavors  
+- Enrolled in an **AI in Medicine** online course to deepen my expertise in applying AI techniques to medical challenges.  
+- Completing my latest **personal project**, which integrates advanced AI technologies to address real-world healthcare needs.  
+
+---
+
+## Collaboration Opportunities  
+I’m eager to collaborate with research teams or organizations working on projects in:  
+- **Computer Vision**  
+- **AI in Medicine**  
+- **Image Processing**  
+- Related interdisciplinary fields  
+
+---
+
+## Get in Touch  
+Feel free to connect with me via:  
+- **Email**: [ghanavati.yazdan@gmail.com]  
+- **LinkedIn**: [yazdan-ghanavati]  
+
+Let’s work together to push the boundaries of innovation in healthcare and AI!
+
