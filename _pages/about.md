@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me  
+
 Hi, I’m **Yazdan Ghanavati**, a dedicated and passionate researcher with a strong foundation in **Biomedical Engineering** and a keen interest in leveraging **Artificial Intelligence (AI)** for healthcare advancements.  
 
 I hold a **B.Sc. in Biomedical Engineering** from the **University of Isfahan** (2023) and am currently pursuing a **Master’s in ICT for Internet and Multimedia** at the **University of Padua**.  
