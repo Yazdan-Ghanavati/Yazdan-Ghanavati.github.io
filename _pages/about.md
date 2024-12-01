@@ -38,8 +38,10 @@ I’m eager to collaborate with research teams or organizations working on proje
 
 ## Get in Touch  
 Feel free to connect with me via:  
-- **Email**: [ghanavati.yazdan@gmail.com]  
-- **LinkedIn**: [yazdan-ghanavati]  
 
+
+- [**LinkedIn**](https://www.linkedin.com/in/yazdan-ghanavati/)  
+- [**Email Me**](mailto:ghanavati.yazdan@gmail.com)
+- 
 Let’s work together to push the boundaries of innovation in healthcare and AI!
 
